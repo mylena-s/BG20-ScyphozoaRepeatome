@@ -21,7 +21,6 @@ Poster background image:
 11. Nong, W., Cao, J., Li, Y., Qu, Z., Sun, J., Swale, T., ... & Bendena, W. (2020). Jellyfish genomes reveal distinct homeobox gene clusters and conservation of small RNA processing. Nature communications, 11(1), 1-11.
 12. Li, Y., Gao, L., Pan, Y., Tian, M., Li, Y., He, C., ... & Zhou, Z. (2020). Chromosome-level reference genome of the jellyfish *Rhopilema esculentum*. GigaScience, 9(4), giaa036.
 13. Dolezel, J., & Bartoš, J. (2005). Plant DNA flow cytometry and estimation of nuclear DNA content. Ann Bot, 95(1), 99-110.
-14. Elliott, T.A., Gregory, T.R. (2015) Do larger genomes contain more diverse transposable elements?. BMC Evol Biol 15, 69. 
 
 ## Software used
 * [Seqyclean v1.10.9](https://github.com/ibest/seqyclean)
